@@ -8,13 +8,13 @@ Freeupload: Use ublock Origin or universal bypass extension to boost countdown a
 
 ### **7.5 (With ALL decompilers) (Windows)**
 Google Drive
-- 7.5.20.1028 Portable: https://drive.google.com/file/d/1BWuGxpLbOasHVQB7DDRB0_1a3R2BW5-n/view
-- 7.5.20.0728 Portable: https://drive.google.com/file/d/1xJj_eeNIkUxiTHNTpYzGQ4wvuGwXtrgi/view
+- 7.5.20.1028 SP3 Portable: https://drive.google.com/file/d/1BWuGxpLbOasHVQB7DDRB0_1a3R2BW5-n/view
+- 7.5.20.0728 SP2 Portable: https://drive.google.com/file/d/1xJj_eeNIkUxiTHNTpYzGQ4wvuGwXtrgi/view
 - SDK and Tools: https://drive.google.com/file/d/16DS8S-Zjvo871rsmwVaDg8mslVLTJb6h/view
 
 Mirror Freeupload
-- 7.5.20.1028 Portable: https://freeupload.info/file/E48A3D35097929DED2D8BEF192026FD4
-- 7.5.20.0728 Portable: https://freeupload.info/file/CEE6CEFDE6C0D63DB600F22F3E411B33
+- 7.5.20.1028 SP3 Portable: https://freeupload.info/file/E48A3D35097929DED2D8BEF192026FD4
+- 7.5.20.0728 SP2 Portable: https://freeupload.info/file/CEE6CEFDE6C0D63DB600F22F3E411B33
 - SDK and Tools: https://freeupload.info/file/766CA892FB58339EB82EEF9AA1C7E62F
 
 **7.3 (Windows) (With patched decompiler)**
